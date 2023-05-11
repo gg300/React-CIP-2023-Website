@@ -14,13 +14,14 @@ function App() {
         </div>
       <div className=' fixed left-3 top-4  text-lg font-mono font-bold '> Inteligenta artificiala
         <div className=' text-center'>viitorul robotilor
-          </div>
+          </div> 
+
         </div>
 
       <div className='fixed left-2 text-lg top-48 text-rose-50 border-2 font-serif'>
         <h1 className=' text-3xl h-16'><u>feihgso  {/* add text for left paragraph title */}</u> </h1>
 
-        <p className=' text-center'>hello good
+        <p className=' text-center'>hello good lol
         {/* ADD text for left paragraph*/}
         </p>
 
